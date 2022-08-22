@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Concept React "Data Down Action Up"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
